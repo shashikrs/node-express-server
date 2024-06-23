@@ -22,9 +22,13 @@ node-express-server is a very basic web application that shows how to start an e
    ```sh
    cd node-express-server
    ```
-3. Install dependencies:
+3. Initialize the project:
    ```sh
-   npm install
+   npm init -y
+   ```
+4. Install dependencies:
+   ```sh
+   npm install express
    ```
 
 ## Usage
